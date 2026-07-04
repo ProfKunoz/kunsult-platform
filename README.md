@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KUNSULT Platform — Release 0.1
 
 Multi-tenant operating system for professional service organisations.
@@ -88,3 +89,7 @@ automatic production deploy — no extra steps needed on Vercel's side.
   write data
 - Second tenant (KunCoach) fully provisioned as a second reference
   implementation, proving out multi-tenancy beyond ZIPROH
+=======
+# kunsult-platform
+Multi-tenant enterprise intelligence platform powering advisory and assurance organisations.
+>>>>>>> 94ff5267e22af2e95e67851bf68eda2abc5f9fc8
