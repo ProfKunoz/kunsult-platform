@@ -106,7 +106,7 @@ export default function NewEngagementPage() {
             <Link href="/tenants/ziproh" className="btn-secondary">
               Cancel
             </Link>
-            <button type="button" className="btn-primary">
+            <button type="submit" className="btn-primary">
               Create engagement
             </button>
           </div>
